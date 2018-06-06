@@ -1,5 +1,5 @@
-# CardiacArrestMortality_ANZICS
-Here we predict the mortality outcome following a cardiac arrest using machine learning.
+# Predicting Mortality post Cardiac Arrest, on ANZICS
+We used a variety of machine learning algorithms to predict the mortality outcome for patients following a cardiac arrest. The summary results are shown below.
 
 ## Results
 ![](Results/ANZROD_Risk_of_Death_Class_Breakdown.png)
